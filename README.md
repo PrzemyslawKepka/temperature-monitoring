@@ -1,2 +1,2 @@
 # temperature_monitoring
-Controlling temperature using Python and Raspberry Pi microcomputer
+Controlling fridge temperature using Python and Raspberry Pi microcomputer
