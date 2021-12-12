@@ -21,4 +21,4 @@ And here is an e-mail notification that was generated.
 ### Update
 As an enhancement of the project, additional script was added, which is sending the data to `InfluxDB`, a timeseries database. It can be connected to `Grafana`, monitoring tool, allowing real-time dashboard to be available.
 
-<img src="https://github.com/PrzemyslawKepka/temperature_monitoring/blob/main/pictures/grafana_dashboad.png" alt="Grafana dashboard"/>
+<img src="https://github.com/PrzemyslawKepka/temperature_monitoring/blob/main/pictures/grafana_dashboard.png" alt="Grafana dashboard"/>
